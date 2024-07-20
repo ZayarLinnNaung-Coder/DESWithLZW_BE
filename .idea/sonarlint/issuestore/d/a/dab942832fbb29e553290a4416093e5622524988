@@ -1,0 +1,82 @@
+
+_
+java:S1643g"Use a StringBuilder instead.(¯©Í«8ï‘éÓŒ2J$786b33a8-5e78-47bd-bbe8-1a94183976bb
+_
+java:S1643j"Use a StringBuilder instead.(Ï„çÏ8ï‘éÓŒ2J$c3ab36ac-3bb1-4916-921c-82ed235c618a
+Ÿ
+java:S1104"WMake arrayOfChar a static final constant or non-public and provide accessors if needed.(©½Èìşÿÿÿÿ8ğ‘éÓŒ2J$da25e205-8c34-4064-8ca8-1ade8be24b9f
+–
+java:S1104	"TMake filename a static final constant or non-public and provide accessors if needed.(ĞŞğ8ğ‘éÓŒ2J$a447892e-3af4-45ed-b3bc-4f1737b0160f
+—
+java:S1104	"UMake extension a static final constant or non-public and provide accessors if needed.(ĞŞğ8ğ‘éÓŒ2J$0c355d04-7cc2-4fe1-97bd-c06874d3a4e5
+œ
+java:S1104
+"TMake dictSize a static final constant or non-public and provide accessors if needed.(ÁÜ½Óûÿÿÿÿ8ğ‘éÓŒ2J$affdd186-fec9-4f65-a9d9-5a433353e325
+Ÿ
+java:S1104
+"WMake currentword a static final constant or non-public and provide accessors if needed.(ÁÜ½Óûÿÿÿÿ8ğ‘éÓŒ2J$3eeee35f-09a7-4af8-b47f-2bc84f62d486
+ 
+java:S1104
+"XMake previousword a static final constant or non-public and provide accessors if needed.(ÁÜ½Óûÿÿÿÿ8ğ‘éÓŒ2J$58629b2d-f731-4535-b347-7f445bbc3036
+š
+java:S1104"RMake buffer a static final constant or non-public and provide accessors if needed.(†—Çøÿÿÿÿ8ğ‘éÓŒ2J$9110781c-0761-49c9-83e2-8b3141ea0226
+•
+java:S1104"RMake isLeft a static final constant or non-public and provide accessors if needed.(»£€¿8ğ‘éÓŒ2J$085fbae8-bbc1-48c8-a036-066988691cd1
+y
+java:S1444"1Make this "public static arrayOfChar" field final(©½Èìşÿÿÿÿ8ğ‘éÓŒ2J$b48848f8-b780-4624-b09a-a88eb1aa3a2f
+p
+java:S1444	".Make this "public static filename" field final(ĞŞğ8ğ‘éÓŒ2J$ee55e68d-7d21-42a9-a755-8f759ff1bca8
+q
+java:S1444	"/Make this "public static extension" field final(ĞŞğ8ğ‘éÓŒ2J$d9e2afe4-746d-4635-a2e2-c3d8723334c8
+v
+java:S1444
+".Make this "public static dictSize" field final(ÁÜ½Óûÿÿÿÿ8ğ‘éÓŒ2J$cdd9933f-d0f4-49a9-b51f-4cdcc654a041
+y
+java:S1444
+"1Make this "public static currentword" field final(ÁÜ½Óûÿÿÿÿ8ğ‘éÓŒ2J$393969e9-c422-42ef-ae3c-ae00d222871d
+z
+java:S1444
+"2Make this "public static previousword" field final(ÁÜ½Óûÿÿÿÿ8ğ‘éÓŒ2J$079af485-bdd7-4b11-af76-59685ff17438
+t
+java:S1444",Make this "public static buffer" field final(†—Çøÿÿÿÿ8ğ‘éÓŒ2J$f7901abf-921e-4a39-97b2-4783889bbdb9
+o
+java:S1444",Make this "public static isLeft" field final(»£€¿8ğ‘éÓŒ2J$e6c6b5d0-667e-45bb-badb-406de329386a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¯É‚8ñ‘éÓŒ2J$33778317-980c-4630-828a-009f1439f450
+‘
+java:S2095("NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(¨û¿¡8·”éÓŒ2J$2117db03-cf43-47a7-9db7-da8800441508
+j
+java:S21892""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¸”éÓŒ2J$a4018dc4-61a6-416b-b85b-8edeab70ca44
+i
+java:S1659	"'Declare "extension" on a separate line.(ĞŞğ8»”éÓŒ2J$a294227f-dac5-41f1-9727-ec72b482bae2
+
+java:S1659
+"HDeclare "currentword" and all following declarations on a separate line.(ÁÜ½Óûÿÿÿÿ8»”éÓŒ2J$6e97e2ba-0664-4e52-b6d2-1cf5d76c68ab
+e
+java:S2386"Make this member "protected".(†—Çøÿÿÿÿ8¼”éÓŒ2J$39f9a165-8cb1-4f0a-a01f-7abbde09b09b
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©½Èìşÿÿÿÿ8¿”éÓŒ2J$1fdc413c-ae20-4a3b-97b0-4b47cbfee798
+‡
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ĞŞğ8À”éÓŒ2J$3ed88e34-da7d-400c-b564-1dc1a24c7256
+
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ÁÜ½Óûÿÿÿÿ8À”éÓŒ2J$c030f3c2-2b2a-4b90-8c14-e00436117472
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(†—Çøÿÿÿÿ8À”éÓŒ2J$35f40c29-019b-4889-b2e4-506ea5e6390d
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»£€¿8À”éÓŒ2J$38f34f88-4e8f-4492-a178-202ee042f115
+~
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8²ˆñÓŒ2J$f445c130-0040-498b-80d2-72980d67fa18
+{
+java:S1854"8Remove this useless assignment to local variable "file".(ÄàÕõ8À”éÓŒ2J$211a4595-8d29-4a42-940a-b5e0e70794e7
+r	java:S106"+Replace this use of System.out by a logger.(‘Ö¬‡ıÿÿÿÿ8Á”éÓŒ2J$59fa2dad-4af7-4694-aed1-faba68823a38
+m	java:S106"+Replace this use of System.out by a logger.(£ÍïÔ8Á”éÓŒ2J$88d3065b-3c84-4c80-9a4a-3660f35c150b
+o
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8µˆñÓŒ2J$e6b7ed0d-1bf7-4280-8afe-b004d2e3ad6c
+l	java:S106"+Replace this use of System.out by a logger.(’•ıM8Ã”éÓŒ2J$e0e5e3a8-b73d-47c6-89c3-657d88dc8747
+~	java:S125"<This block of commented-out lines of code should be removed.(›Õ¦”8Ã”éÓŒ2J$7d5fb6e3-5d3b-4c2e-aa9e-fb508f00bc87
+l
+java:S1481")Remove this unused "file" local variable.(ÄàÕõ8Å”éÓŒ2J$7aaf2237-537f-4c63-afe7-1519ce755bbf
+r	java:S106"+Replace this use of System.out by a logger.(šìæúÿÿÿÿ8Å”éÓŒ2J$c7d3f00e-9d79-4a35-9895-ff05606ac1bb
+m	java:S106"+Replace this use of System.out by a logger.(ŠÑÊ‚8Å”éÓŒ2J$f5197a04-660a-49b8-abc6-01a20daebfef
+n
+java:S2386!"&Make member "arrayOfChar" "protected".(Ğÿ’Áÿÿÿÿÿ8Æ”éÓŒ2J$41ac244c-f87a-44b3-8ef0-f5c91b5aa405

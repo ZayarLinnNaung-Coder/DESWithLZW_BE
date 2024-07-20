@@ -1,0 +1,94 @@
+
+£
+java:S1319"gThe type of "dictionary" should be an interface such as "Map" rather than the implementation "HashMap".(ˆÊôÿJ$694ae685-29e7-4fb9-be2e-13a28ae0f068
+‘	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æã¸üÿÿÿÿJ$7b9b1666-f880-45c0-b5c4-4ab35887fd0f
+]
+java:S1643A"Use a StringBuilder instead.(ï‘Ì‡úÿÿÿÿJ$7778ad15-5cca-4602-8db3-b90b8f09a32a
+Y
+java:S1643†"Use a StringBuilder instead.(†¶°øJ$f182c55f-3497-4781-9efa-777ea25c388b
+’
+java:S1104"VMake dictionary a static final constant or non-public and provide accessors if needed.(ˆÊôÿJ$1fab093e-b04d-4aef-b878-6d74fc6db4c1
+•
+java:S1104	"TMake dictSize a static final constant or non-public and provide accessors if needed.(—¿÷•úÿÿÿÿJ$544894c1-0cfe-4c6e-9b40-c90b7ac18f4f
+
+java:S1104
+"MMake P a static final constant or non-public and provide accessors if needed.(ºáàîşÿÿÿÿJ$9207a754-0537-4fa5-8418-6a6a01502a4e
+•
+java:S1104
+"TMake filename a static final constant or non-public and provide accessors if needed.(ºáàîşÿÿÿÿJ$4b9b70b5-710f-4c9d-b0b9-9e6da6466dd2
+
+java:S1104
+"NMake BP a static final constant or non-public and provide accessors if needed.(ºáàîşÿÿÿÿJ$74a85424-ab7b-4842-a44d-88fdce989de6
+–
+java:S1104"UMake inputByte a static final constant or non-public and provide accessors if needed.(•Ö¼êúÿÿÿÿJ$292fece9-c309-4273-aaa8-14fbd5504f41
+“
+java:S1104"RMake buffer a static final constant or non-public and provide accessors if needed.(€ÃÕÊøÿÿÿÿJ$6307738c-7fde-44d2-8dfa-88488f9254b4
+
+java:S1104"RMake isLeft a static final constant or non-public and provide accessors if needed.(×ÇìJ$f04d51c1-a8f1-499b-a8e2-7d675c459bad
+l
+java:S1444"0Make this "public static dictionary" field final(ˆÊôÿJ$585231b7-39eb-4127-aff8-e691d4d864b4
+o
+java:S1444	".Make this "public static dictSize" field final(—¿÷•úÿÿÿÿJ$0a237c26-a3e0-4d95-a557-293ba7b0365b
+h
+java:S1444
+"'Make this "public static P" field final(ºáàîşÿÿÿÿJ$8063ea6a-3dfe-4cb2-853c-2cbe721ac13b
+o
+java:S1444
+".Make this "public static filename" field final(ºáàîşÿÿÿÿJ$022e27cc-627c-48cd-9519-82425bbde2df
+i
+java:S1444
+"(Make this "public static BP" field final(ºáàîşÿÿÿÿJ$7b1edb86-d922-4376-a4ee-3307b8b15094
+p
+java:S1444"/Make this "public static inputByte" field final(•Ö¼êúÿÿÿÿJ$05508130-ce0e-4ce7-a30f-59ca3937faef
+m
+java:S1444",Make this "public static buffer" field final(€ÃÕÊøÿÿÿÿJ$bdf0f658-b4e8-4bcf-9344-cf7ac58adbc4
+h
+java:S1444",Make this "public static isLeft" field final(×ÇìJ$2565f76a-8245-428f-af53-8d44994f8434
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¯É‚J$2f80be70-a6e8-4e7a-a416-c8377b89b9e5
+
+java:S2095*"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(‹¸¨öıÿÿÿÿJ$6446d6e2-defb-416d-a31d-b626df78a7d3
+Š
+java:S2095,"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(†˜Ş¥J$f5af3620-f150-4d7b-b76f-ac381d61bba4
+c
+java:S21898""Add an end condition to this loop.(˜ïˆÿÿÿÿÿJ$d7bb5ebd-cb1e-4a70-b3cc-2520cf12ed27
+
+java:S3008
+"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºáàîşÿÿÿÿJ$83a9a512-1cee-4f6b-a138-af6469d185fd
+
+java:S3008
+"MRename this field "BP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºáàîşÿÿÿÿJ$28483b54-4778-49ee-88ee-1e628fc6ee35
+†
+java:S1659
+"EDeclare "filename" and all following declarations on a separate line.(ºáàîşÿÿÿÿJ$8f5ecf17-f54f-4327-acb4-fc5e98f0ac1b
+Y
+java:S2386"Make this member "protected".(ˆÊôÿJ$437b55a1-26e0-49fd-9e59-0975196d1d7b
+^
+java:S2386"Make this member "protected".(€ÃÕÊøÿÿÿÿJ$517881f3-1146-4b3c-ba0b-4d3b0f9cb905
+~
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8˜±ôÓŒ2J$02684ba2-0a0f-41f3-93c2-bffb8daa5a7f
+t
+java:S1854"8Remove this useless assignment to local variable "file".(ÄàÕõJ$ca36bd17-3d0f-4d9d-ba4e-3b8a3b0647f6
+k	java:S106"+Replace this use of System.out by a logger.(ûÙ§ªùÿÿÿÿJ$c02487ec-5cba-4931-9512-2c7d69cf293f
+f	java:S106"+Replace this use of System.out by a logger.(„îÔ¹J$7e32cf94-b881-456f-bf51-951eaf42bc49
+o
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8›±ôÓŒ2J$665ef9de-4068-4a4e-a88b-bde7dde8a0a8
+e
+java:S1481")Remove this unused "file" local variable.(ÄàÕõJ$eef87db3-f3e9-4689-a8c2-ddeb43bffd54
+f	java:S106"+Replace this use of System.out by a logger.(óçéóJ$b077dc53-def7-46f2-b6c8-df1c6c222f73
+f	java:S106"+Replace this use of System.out by a logger.(ŠÑÊ‚J$8b2b7100-8480-41a2-bfa9-ff5a208d6f73
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÅÅË«J$e5f0e484-757e-4389-b1c3-4131083ecd95
+h
+java:S1659!"'Declare "byteToInt" on a separate line.(ˆ²ÜùÿÿÿÿJ$4b83a2e8-1650-40b7-b200-d66e188e2ecf
+]
+java:S21532"!Remove the boxing of "inputByte".(‡ª¸–J$5fb5139d-85a0-4cdc-b31c-2df0f4346ba0
+Z
+java:S21292"Remove this "Byte" constructor(‡ª¸–J$e1c63dae-be27-4f56-a27a-453712628f06
+„
+java:S57382"HRemove this call to a deprecated method, it has been marked for removal.(‡ª¸–J$7a9179f6-88d3-49b2-b745-43bba37a82bc
+]
+java:S2153:"!Remove the boxing of "inputByte".(‡ª¸–J$7789ee0e-5ecb-496c-9cc5-a0d7bec626e4
+Z
+java:S2129:"Remove this "Byte" constructor(‡ª¸–J$91700e52-e613-4706-9efc-31988d12a364
+„
+java:S5738:"HRemove this call to a deprecated method, it has been marked for removal.(‡ª¸–J$21302f47-e233-4a77-a7cf-6ab90e9a1249

@@ -1,0 +1,40 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èäšşıÿÿÿÿ8Ù°ôıŒ2J$a7ec1671-1094-453d-a639-3938e056c57d
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Âš™8Ù°ôıŒ2J$89f48fbe-bade-4142-9f14-69af56897cee
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¯ñĞ8Ú°ôıŒ2J$4ee367d8-a4cf-42a1-ba3f-e56edefe61d5
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èäšşıÿÿÿÿ8Ú°ôıŒ2J$f6523fe4-9563-4f9b-a020-5a7d3a0467e9
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Âš™8Ú°ôıŒ2J$03baeef9-df49-414a-9de9-c0098604a389
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡İ¦â8Ú°ôıŒ2J$5308c841-7a9d-498c-b09e-cd5ae71850a3
+“	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÃ¦Ü8Ú°ôıŒ2J$851a8b8f-bfa3-476b-a4ad-2dd167f1937c
+˜	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬àÔóúÿÿÿÿ8Ú°ôıŒ2J$388dc651-e0bb-43df-a171-eddf738ba249
+“	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞúÖÃ8Ú°ôıŒ2J$eb69a349-d0e8-4ed6-84b4-cedeff44f73b
+“	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÍ´8Ú°ôıŒ2J$07b6bb4f-3798-4cc9-917f-a36e0a6476ec
+˜	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½…ÿ ıÿÿÿÿ8Ú°ôıŒ2J$190bc5d3-6e23-4623-b590-fef0c89af0cb
+“	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÔò8Ú°ôıŒ2J$0f91d48f-519b-45e0-ba61-e92a06dc25f8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÍ‚«8Ü°ôıŒ2J$24a18584-bdef-4a78-9f4f-6661af64f1c6
+š
+java:S2259["RA "NullPointerException" could be thrown; "get_value_from_table" is nullable here.(¯ß€ğûÿÿÿÿ8ë²ôıŒ2J$73e7f309-314a-4439-b1c6-49d663568c6d
+“
+java:S2259V"KA "NullPointerException" could be thrown; "Encode_values" is nullable here.(¹—âÊüÿÿÿÿ8ë²ôıŒ2J$d90a89f4-87d0-4b2a-8000-5bf9e5075f3d
+œ
+java:S3008
+"YRename this field "MAX_TABLE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎˆÜ8ì²ôıŒ2J$00f9b528-eb43-48ed-bc45-4c2d8defb727
+§
+java:S1149N"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½…ÿ ıÿÿÿÿ8î²ôıŒ2J$f7f532a3-dab5-4432-a30b-87eaa9ff30fe
+r	java:S106"+Replace this use of System.out by a logger.(»Ê¸‰ùÿÿÿÿ8õ²ôıŒ2J$4554df99-e2b7-4658-aa0e-5dcd7d3506ae
+r	java:S106"+Replace this use of System.out by a logger.(åÙ™úÿÿÿÿ8õ²ôıŒ2J$1ca8bf76-0548-4ade-8a47-a493352f730f
+m	java:S106"+Replace this use of System.out by a logger.(şô’8ö²ôıŒ2J$e19983fb-7313-4667-9b58-5a4881034930
+m	java:S106#"+Replace this use of System.out by a logger.(¸Àçû8ö²ôıŒ2J$71c55897-8f95-4407-b20c-6cede0704857
+r	java:S106$"+Replace this use of System.out by a logger.(ÏæÏùÿÿÿÿ8÷²ôıŒ2J$5124201f-179d-4275-8b3d-14077ce3dec1
+m	java:S106'"+Replace this use of System.out by a logger.(¤¯Ú»8ø²ôıŒ2J$f687b7d3-f660-4b06-9ac6-5c89eca9445f
+r	java:S106("+Replace this use of System.out by a logger.(›ÓúÂúÿÿÿÿ8€³ôıŒ2J$f6f0fedd-ee5b-4d5c-9058-a5ca8c3c170e
+r	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8³ôıŒ2J$26f7c391-747a-46c6-874b-cb31baaf5fab
+r	java:S106@"+Replace this use of System.out by a logger.(®ÚİÓşÿÿÿÿ8‚³ôıŒ2J$bb4195a9-9fde-4583-8eb8-6ecf6ed0c5c4
+r	java:S106R"+Replace this use of System.out by a logger.(»Ê¸‰ùÿÿÿÿ8ûÛøıŒ2J$3fc01527-642a-4b89-93ae-15c92a5f0491
+m	java:S106f"+Replace this use of System.out by a logger.(ó—À«8çÈ€şŒ2J$3a05a86d-21a2-4863-b9c2-98e5381dd39e
+”
+java:S3457g"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù¼°8³ôıŒ2J$b97cb3c9-67f8-48ae-bb93-25a07b6dd18c
+m	java:S106g"+Replace this use of System.out by a logger.(Ù¼°8èÈ€şŒ2J$aee75a23-92b6-4528-94aa-12821a9e10bc
+m	java:S106j"+Replace this use of System.out by a logger.(¬‹°²8îõ€şŒ2J$a75748b0-568c-4087-a635-5bc0f3689437

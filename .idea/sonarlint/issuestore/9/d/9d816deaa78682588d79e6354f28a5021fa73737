@@ -1,0 +1,45 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èäšşıÿÿÿÿ8ò„×ÔŒ2J$8910daed-c306-4aaf-b874-569e89c3d4c5
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Âš™8ò„×ÔŒ2J$420a4ad4-5bbe-459e-8653-3654090f4960
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¯ñĞ8Û­ÒÔŒ2J$5b9342e9-29ef-4d33-af1c-11d6a9bb010b
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èäšşıÿÿÿÿ8Û­ÒÔŒ2J$c0d14d76-22eb-4ba0-9d95-f27e22cb3ad4
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Âš™8ó„×ÔŒ2J$db6e9268-ac31-43ce-8c69-61c9b69d56ad
+“	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡İ¦â8ó„×ÔŒ2J$c5835e06-b356-4ef7-8d31-4ef3d35ce30d
+“	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÃ¦Ü8˜Ü×ÔŒ2J$33df2a7d-7699-4d50-b6cc-4c21530fcea4
+˜	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬àÔóúÿÿÿÿ8˜Ü×ÔŒ2J$082a98bd-8489-4056-b058-1fe51f0fada3
+“	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞúÖÃ8˜Ü×ÔŒ2J$2f4be3f5-36e0-4970-964f-3f9925f94481
+“	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÍ´8˜Ü×ÔŒ2J$1350e9ad-c139-4513-af4e-1fe0757827f7
+˜	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½…ÿ ıÿÿÿÿ8˜Ü×ÔŒ2J$608f48f0-5213-48ee-8bca-657e457e5c5c
+“	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÔò8˜Ü×ÔŒ2J$cf46d588-07ad-4adb-9278-d62e124ff0d0
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÍ‚«8ò€ÑÔŒ2J$71c1ff12-9b0d-458e-90e3-cd9b96ebd90f
+š
+java:S2259Z"RA "NullPointerException" could be thrown; "get_value_from_table" is nullable here.(¯ß€ğûÿÿÿÿ8‰İ×ÔŒ2J$0b3b99b8-0bb0-4c9c-b198-04da87a2cfb5
+“
+java:S2259U"KA "NullPointerException" could be thrown; "Encode_values" is nullable here.(¹—âÊüÿÿÿÿ8‰İ×ÔŒ2J$ee9fedb5-454b-463b-8b5b-6df2fc5afdc5
+§
+java:S1149M"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½…ÿ ıÿÿÿÿ8‹İ×ÔŒ2J$5da71724-58fd-44d8-b26e-912576c413b8
+r	java:S106"+Replace this use of System.out by a logger.(åÙ™úÿÿÿÿ8î…×ÔŒ2J$25feb62e-dcec-4667-b60c-5b7fec2e6345
+m	java:S106!"+Replace this use of System.out by a logger.(şô’8î…×ÔŒ2J$801dd1d9-aed0-4712-bb67-d7f03b608a87
+m	java:S106%"+Replace this use of System.out by a logger.(¸Àçû8î…×ÔŒ2J$dab66354-ed0a-4c4a-b8ac-6e463c6a1fdc
+r	java:S106&"+Replace this use of System.out by a logger.(ÏæÏùÿÿÿÿ8î…×ÔŒ2J$98297cc7-1746-4e5f-bbfb-d8a028eda4bd
+m	java:S106)"+Replace this use of System.out by a logger.(¤¯Ú»8î…×ÔŒ2J$2f2e4080-60f8-4911-8ec7-ecdbc47fd24d
+r	java:S106*"+Replace this use of System.out by a logger.(›ÓúÂúÿÿÿÿ8ï…×ÔŒ2J$3d168dbe-d85d-4fe5-8734-aa9e6b1a3ba0
+
+java:S1854h"<Remove this useless assignment to local variable "fileByte".(¤¸ì“8Õ®ÒÔŒ2J$d3237cae-0b7b-4ebe-bed1-705804d7e78d
+´
+java:S1130b"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÃğÍ°ıÿÿÿÿ8Ö®ÒÔŒ2J$6f84ceae-5e06-4f78-aadc-a265129df0e7
+p
+java:S1481h"-Remove this unused "fileByte" local variable.(¤¸ì“8Ö®ÒÔŒ2J$e234429c-c8a0-4afc-b4c5-ec1b380f5fb8
+„
+java:S1854q"<Remove this useless assignment to local variable "fileByte".(¤šÏ¨ıÿÿÿÿ8×®ÒÔŒ2J$2d7455dd-d371-4a63-b503-119bb1072848
+¯
+java:S1130l"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Š³8×®ÒÔŒ2J$d236889f-9ed1-4810-9c0b-c36568fc7f19
+u
+java:S1481q"-Remove this unused "fileByte" local variable.(¤šÏ¨ıÿÿÿÿ8×®ÒÔŒ2J$cc5b276a-a699-4856-aacf-65c8bf563f43
+m	java:S106z"+Replace this use of System.out by a logger.(ó—À«8õØØÔŒ2J$ab83aab6-da5d-446a-834d-19813ba4efb5
+”
+java:S3457{"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù¼°8õØØÔŒ2J$bc0f0dfd-c631-4ff8-b5ee-3f6532ee8907
+m	java:S106{"+Replace this use of System.out by a logger.(Ù¼°8õØØÔŒ2J$c39f9400-5690-4268-adf3-e540c7d945af
+m	java:S106~"+Replace this use of System.out by a logger.(¬‹°²8õØØÔŒ2J$504d901e-0948-45b1-82b9-b24263fcc483
