@@ -36,10 +36,10 @@ jobs:
 
     - name: Build and tag Docker image
       run: |
-        docker build . -t zayarlinnnaung/DesWithLZW
+        docker build . -t zayarlinnnaung/deswithlzw
       env:
         DOCKER_BUILDKIT: 1
 
     - name: Push Docker image
       run: |
-        docker push zayarlinnnaung/DesWithLZW
+        docker push zayarlinnnaung/deswithlzw
