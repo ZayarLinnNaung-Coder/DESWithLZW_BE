@@ -4,7 +4,7 @@ FROM openjdk:17-jdk-slim as build
 MAINTAINER ZAYARLINNNAUNG
 
 # Add the application's jar to the container
-COPY target/DesWithLZW-0.0.1-SNAPSHOT.jar DesWithLZW.jar
+COPY target/desWithLZW-0.0.1-SNAPSHOT.jar DesWithLZW.jar
 
 EXPOSE 8080
 
