@@ -21,3 +21,8 @@ C
 src/main/artist.lzw,5/f/5f29ee642fe1dd435c47c96734a5c0639d973363
 r
 Bsrc/main/java/yamone/thesis/desWithLZW/utils/LZWUtilsWithSout.java,c/6/c603dfd5f3e4318c272e3a57d81d1d4aab980454
+:
+
+Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+R
+".github/workflows/docker-image.yml,a/9/a9559c5bf0b777abb52ef983bf739d20d32d0a24
