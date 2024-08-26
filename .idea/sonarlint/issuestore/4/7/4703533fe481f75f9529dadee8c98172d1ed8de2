@@ -1,107 +1,109 @@
 
-‰	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(š£Ù­8ç×‚‡Œ2J$4980f6f3-dc9f-4acb-9fa9-becd1df45ce4
-‰	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(‡ì8ç×‚‡Œ2J$62f6d035-9fd0-4719-8be8-c9543e9268c9
-‰	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(š£Ù­8ç×‚‡Œ2J$f3700963-3b0e-49ac-b48e-a4f98bdc5344
-	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(õıùúÿÿÿÿ8ç×‚‡Œ2J$e340f660-dca8-4286-865d-8817c5bb6b91
-”	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµœæ8é×‚‡Œ2J$f23b6a44-cebe-4ee0-a822-38ec822a5f04
-™	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Äùÿÿÿÿ8é×‚‡Œ2J$67b24e0c-bdc6-4a55-93b8-e371f7304d5f
+‰	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(š£Ù­8—Ô‡ö˜2J$e01599df-998c-4110-89eb-54d8304a40a1
+‰	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(‡ì8—Ô‡ö˜2J$77e792ec-8f6f-4da7-aed1-7757535d3b3a
+‰	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(š£Ù­8—Ô‡ö˜2J$908bee9b-146c-4041-b2ca-62e4d4cb1c5d
+	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(õıùúÿÿÿÿ8—Ô‡ö˜2J$bd4e4e57-daff-43e8-b9dc-e6f218a98dd4
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(öÎŸûúÿÿÿÿ8—Ô‡ö˜2J$0cc8c5a0-2407-4fc0-ad69-c659467c1d04
+	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(®ÔÇÔùÿÿÿÿ8ƒï‡ö˜2J$3612e13b-bfb7-4b1e-8ad4-5a01cac8d41a
+”	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµœæ8™Ô‡ö˜2J$5f8e1d8b-df44-47ee-8ee5-cfd464619269
+™	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Äùÿÿÿÿ8™Ô‡ö˜2J$90715d0b-6bbe-405a-8aba-d27800251b83
 `
-java:S1643Í"Use a StringBuilder instead.(ÑˆÇÅ8é×‚‡Œ2J$2d253bab-279d-4804-b937-28ea1eb56135
+java:S1643Í"Use a StringBuilder instead.(ÑˆÇÅ8šÔ‡ö˜2J$77de13fd-5d5e-4e2c-9b8f-3abc8a6684d3
 `
-java:S1643ç"Use a StringBuilder instead.(©ĞÛ8é×‚‡Œ2J$f26e72cd-cc81-40b8-b579-a06c757fd3ca
+java:S1643ç"Use a StringBuilder instead.(©ĞÛ8šÔ‡ö˜2J$dbd96cf0-bb86-42ae-ab51-e088dfdda3ae
 e
-java:S1643€"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8é×‚‡Œ2J$93ff5e40-12f6-49a1-98e3-0e3575364349
+java:S1643€"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8šÔ‡ö˜2J$8d1758b2-8d2e-4f10-8381-eb88eaf2ef1f
 `
-java:S1643•"Use a StringBuilder instead.(©ĞÛ8é×‚‡Œ2J$98099623-2dc7-4c23-91a7-b63a82761c22
+java:S1643•"Use a StringBuilder instead.(©ĞÛ8šÔ‡ö˜2J$201bbf77-ceaf-4320-ba99-9d94b0787c29
 e
-java:S1643®"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8é×‚‡Œ2J$ae73ac31-d303-423f-b5dc-274817903df3
+java:S1643®"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8šÔ‡ö˜2J$811be714-58a3-484d-8ee2-1ca817857174
 `
-java:S1643Ï"Use a StringBuilder instead.(©ĞÛ8é×‚‡Œ2J$2e425e5f-c4d2-4502-a1b0-472a00b55961
+java:S1643Ï"Use a StringBuilder instead.(©ĞÛ8šÔ‡ö˜2J$23120c18-b307-432e-a0bb-e8ce006b3789
 e
-java:S1643é"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8é×‚‡Œ2J$e629dcee-a705-4c07-967b-210fc18c7310
+java:S1643é"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8šÔ‡ö˜2J$fdebbadd-591f-4c20-98e7-aec362d6abfb
 `
-java:S1643ÿ"Use a StringBuilder instead.(©ĞÛ8¬™”‡Œ2J$79caf44e-b0e9-4130-a5c1-161ceb6c9d40
+java:S1643ÿ"Use a StringBuilder instead.(©ĞÛ8šÔ‡ö˜2J$d9bfbc60-c1aa-4eaf-b66d-0fd850552e7f
 e
-java:S1643™"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8¬™”‡Œ2J$6f139ffd-343f-4ec0-98e2-def4e9f117f9
+java:S1643™"Use a StringBuilder instead.(»Éåœúÿÿÿÿ8šÔ‡ö˜2J$f0f44fa1-24a0-474c-ab61-8b9b0d4f0487
 `
-java:S1643«"Use a StringBuilder instead.(¼Ï“Ö8é×‚‡Œ2J$8ceee89d-cc36-48a2-89cc-848780f6cfe4
+java:S1643«"Use a StringBuilder instead.(¼Ï“Ö8šÔ‡ö˜2J$ef2a5186-fff1-4a8a-8db5-c55105516954
 `
-java:S1643¶"Use a StringBuilder instead.(Ë§Ÿ¬8é×‚‡Œ2J$b382e8f7-08dd-4d46-9b5d-c3828737b383
+java:S1643¶"Use a StringBuilder instead.(Ë§Ÿ¬8šÔ‡ö˜2J$d6386534-66fb-4c9a-b174-430e1703d499
 e
-java:S1643Ã"Use a StringBuilder instead.(¿Ê±¡ÿÿÿÿÿ8ê×‚‡Œ2J$d2245ba2-309a-4d6e-a829-7e8813ebc013
+java:S1643Ã"Use a StringBuilder instead.(¿Ê±¡ÿÿÿÿÿ8šÔ‡ö˜2J$19d8c329-0c9c-4937-84a5-4c01d2917cca
 e
-java:S1643Ì"Use a StringBuilder instead.(€’êÿùÿÿÿÿ8ê×‚‡Œ2J$43adde44-03c0-4cae-b3aa-ccf20bf25e5b
+java:S1643Ì"Use a StringBuilder instead.(€’êÿùÿÿÿÿ8šÔ‡ö˜2J$f016c54c-d033-436f-8c62-896bfbceee5e
 `
-java:S1643Ú"Use a StringBuilder instead.(¼Ï“Ö8ê×‚‡Œ2J$609f61f8-c7e2-4cc2-aced-c940ec77671c
+java:S1643Ú"Use a StringBuilder instead.(¼Ï“Ö8šÔ‡ö˜2J$b86b7ab5-0849-4074-8a11-cc81d142f370
 `
-java:S1643å"Use a StringBuilder instead.(Ë§Ÿ¬8ê×‚‡Œ2J$00d2c70e-70aa-40f6-b28e-23020f34219c
+java:S1643å"Use a StringBuilder instead.(Ë§Ÿ¬8šÔ‡ö˜2J$b63b30a1-29cc-4b7a-8337-faf7a92ce328
 e
-java:S1643ò"Use a StringBuilder instead.(¿Ê±¡ÿÿÿÿÿ8ê×‚‡Œ2J$221a6ebf-2d2a-43bc-84e5-d0cf6e64cdba
+java:S1643ò"Use a StringBuilder instead.(¿Ê±¡ÿÿÿÿÿ8šÔ‡ö˜2J$06125b11-e101-45bf-b6d7-638f33893308
 e
-java:S1643û"Use a StringBuilder instead.(€’êÿùÿÿÿÿ8ê×‚‡Œ2J$fcb3666c-9bc0-40bc-a7c5-f2faab4162dd
+java:S1643û"Use a StringBuilder instead.(€’êÿùÿÿÿÿ8šÔ‡ö˜2J$3d0bf7ef-b34f-4055-8d25-209b03b88fe2
 `
-java:S1643›"Use a StringBuilder instead.(Ë¼î¯8ê×‚‡Œ2J$b120f5f9-ce65-4582-8105-98539772c149
+java:S1643Ÿ"Use a StringBuilder instead.(Ë¼î¯8šÔ‡ö˜2J$80ae3b69-0694-4171-90c5-04c6eee0c653
 e
-java:S1643¢"Use a StringBuilder instead.(ï×şŸüÿÿÿÿ8ê×‚‡Œ2J$4f1004fa-ce91-48c1-9d75-87f0151ede02
+java:S1643¦"Use a StringBuilder instead.(ï×şŸüÿÿÿÿ8šÔ‡ö˜2J$c171444e-e956-44d8-8938-c81f85334320
 `
-java:S1643¾"Use a StringBuilder instead.(¡Ãôä8ê×‚‡Œ2J$5d234397-91b2-4574-989a-b12193815258
+java:S1643Â"Use a StringBuilder instead.(¡Ãôä8šÔ‡ö˜2J$4b920459-1329-40fe-81cb-1bb09da594e8
 _
-java:S1643Å"Use a StringBuilder instead.(šÚ‹k8ê×‚‡Œ2J$f5d5c241-cbe6-4ff2-b1b8-b3e1ba9acced
+java:S1643É"Use a StringBuilder instead.(šÚ‹k8šÔ‡ö˜2J$fb1b741e-c919-4a85-b5df-1b215828a64b
 e
-java:S1643Ø"Use a StringBuilder instead.(»Õ øÿÿÿÿÿ8ê×‚‡Œ2J$d9b6b830-aef2-424a-853d-789ed0435907
+java:S1643Ü"Use a StringBuilder instead.(»Õ øÿÿÿÿÿ8šÔ‡ö˜2J$2df52045-6aaf-4f63-b53f-f3a78115c97c
 `
-java:S1643ä"Use a StringBuilder instead.(¸ç§ğ8ê×‚‡Œ2J$aee58c45-290a-445c-8302-55d97176d650
+java:S1643è"Use a StringBuilder instead.(¸ç§ğ8šÔ‡ö˜2J$417187ab-b8a0-4315-9fbe-8d2ad27c28f9
 e
-java:S1643…"Use a StringBuilder instead.(´‰îŸûÿÿÿÿ8ê×‚‡Œ2J$5a39407c-64f5-4280-ba2a-4d346286d4f6
+java:S1643‰"Use a StringBuilder instead.(´‰îŸûÿÿÿÿ8šÔ‡ö˜2J$1a69f24b-21f9-4e48-8cc3-ce71af9ac796
 `
-java:S1643‹"Use a StringBuilder instead.(éĞŸ8ê×‚‡Œ2J$ea91dd80-9a6b-47ab-ad10-8bcc5a317462
+java:S1643"Use a StringBuilder instead.(éĞŸ8šÔ‡ö˜2J$430e8c36-29e4-4006-89c2-1d22626fe15e
 ¦
-java:S1488š"bImmediately return this expression instead of assigning it to the temporary variable "ciphertext".(ì¹é¹8ê×‚‡Œ2J$1027dcd1-383a-442a-9849-2a8d8364ce1a
+java:S1488š"bImmediately return this expression instead of assigning it to the temporary variable "ciphertext".(ì¹é¹8šÔ‡ö˜2J$55234721-cdab-4ac5-85d4-e21faa792df9
 ¤
-java:S1488¢"[Immediately return this expression instead of assigning it to the temporary variable "bin".(ğà¼¾üÿÿÿÿ8ê×‚‡Œ2J$55129c3a-e566-4e3f-a1fa-4317bf514d11
+java:S1488¢"[Immediately return this expression instead of assigning it to the temporary variable "bin".(ğà¼¾üÿÿÿÿ8›Ô‡ö˜2J$4040ee0c-3eee-478d-a505-6e75b9a099ec
 ™
-java:S1104	"VMake KEY_LENGTH a static final constant or non-public and provide accessors if needed.(ôç‹³8ê×‚‡Œ2J$2244b4da-5f0f-4262-bec7-34be701681ea
+java:S1104	"VMake KEY_LENGTH a static final constant or non-public and provide accessors if needed.(ôç‹³8›Ô‡ö˜2J$c0567df8-c78d-48a8-8d40-f48629ce7d13
 s
-java:S1444	"0Make this "public static KEY_LENGTH" field final(ôç‹³8ë×‚‡Œ2J$618a7ba8-4b37-493e-8746-953df171c4b3
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÍ‚«8ì×‚‡Œ2J$37f50a5d-b19c-43a7-a155-e726fb10be3b
+java:S1444	"0Make this "public static KEY_LENGTH" field final(ôç‹³8›Ô‡ö˜2J$a1ee5536-7408-478b-9a29-d701b805dc22
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÍ‚«8Ô‡ö˜2J$f089caf6-5c03-4d4d-b9b1-a0e94e440318
 Œ
-java:S2259É"CA "NullPointerException" could be thrown; "bytes" is nullable here.(—Ü™âûÿÿÿÿ8ŞÚ‚‡Œ2J$e6beb65f-6859-4bb0-af05-d1b7a1c1f214
+java:S2259É"CA "NullPointerException" could be thrown; "bytes" is nullable here.(—Ü™âûÿÿÿÿ8Á×‡ö˜2J$ebbeefc3-591f-4927-9aa0-5cc95d700123
 ‘
-java:S2259º"HA "NullPointerException" could be thrown; "ciphertext" is nullable here.(à»‹Óÿÿÿÿÿ8İÚ‚‡Œ2J$91889166-6669-4f01-967c-18aec5928251
+java:S2259º"HA "NullPointerException" could be thrown; "ciphertext" is nullable here.(à»‹Óÿÿÿÿÿ8Á×‡ö˜2J$abdaad23-3eb9-421d-a413-334bc415a45c
 ˜
-java:S3008	"URename this field "KEY_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôç‹³8èÚ‚‡Œ2J$6ae79f0d-8935-4de1-bfb3-a29fe1930c93
+java:S3008	"URename this field "KEY_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôç‹³8Â×‡ö˜2J$7314edb4-a0a4-4c9a-8990-2a174600f9c4
 –
-java:S3008"NRename this field "PC1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÿÂ²øÿÿÿÿ8éÚ‚‡Œ2J$0fcbc38c-c8ff-4aec-bcb4-a63011010d09
+java:S3008"NRename this field "PC1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÿÂ²øÿÿÿÿ8Â×‡ö˜2J$207925c3-5a07-4ea1-8770-32093ae3a64c
 ˜
-java:S3008"URename this field "KEY_SHIFTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¶Æ‚8éÚ‚‡Œ2J$d1f14421-caff-4ca2-ae9e-71063e210817
+java:S3008"URename this field "KEY_SHIFTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¶Æ‚8Ã×‡ö˜2J$73dd86aa-7492-4502-b927-f2c3033000e5
 ‘
-java:S3008"NRename this field "PC2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªµß 8éÚ‚‡Œ2J$1ab78414-941d-4363-8036-a0a133c96708
+java:S3008"NRename this field "PC2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªµß 8Ã×‡ö˜2J$56350fcf-7ba5-4898-b313-a1b816bc08a6
 
-java:S3008}"MRename this field "IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÔÁº8éÚ‚‡Œ2J$4e007bbe-b533-4fe7-900f-6bbc617db936
+java:S3008}"MRename this field "IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÔÁº8Ã×‡ö˜2J$a83e3747-39c9-4208-97bd-b67799e757da
 ‘
-java:S3008‰"NRename this field "IPi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æ×Z8éÚ‚‡Œ2J$a0853733-9a1e-4d1f-b5a4-297a6872e51a
+java:S3008‰"NRename this field "IPi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æ×Z8Ã×‡ö˜2J$ae57b6f2-2af8-473b-95ff-6095851aef47
 •
-java:S3008•"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñâ‡¹ıÿÿÿÿ8éÚ‚‡Œ2J$ac79f3e2-9915-4261-8654-e926253016a7
+java:S3008•"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñâ‡¹ıÿÿÿÿ8Ã×‡ö˜2J$1dc7ffc8-0be6-40b2-8dd1-b87f7f0fe941
 }
-java:S1118":Add a private constructor to hide the implicit public one.(‘…‚8øÚ‚‡Œ2J$6d9102eb-c362-469c-a154-cce0749b152e
+java:S1118":Add a private constructor to hide the implicit public one.(‘…‚8Æ×‡ö˜2J$1ac4bcb0-3952-499f-9574-5e141fd6db8c
 ‚
-java:S4719´"9Replace charset name argument with StandardCharsets.UTF_8(È§µúÿÿÿÿ8„Û‚‡Œ2J$080750a4-bfeb-40b9-b341-b3fd8de6190b
+java:S4719´"9Replace charset name argument with StandardCharsets.UTF_8(È§µúÿÿÿÿ8Ì×‡ö˜2J$051dfafa-8e0f-4944-bd04-de6a6c4685b1
 {
-java:S1135¶"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‡Û‚‡Œ2J$e5452e55-4d46-420d-8bdf-2022bdb8a801
+java:S1135¶"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ì×‡ö˜2J$1a1d38dc-d92c-4136-9f8c-7f1ce4656fad
 ‚
-java:S4719Â"9Replace charset name argument with StandardCharsets.UTF_8(’ÅìÏıÿÿÿÿ8‰Û‚‡Œ2J$d15c9b6d-e18b-41f3-bf90-61323de3376b
+java:S4719Â"9Replace charset name argument with StandardCharsets.UTF_8(’ÅìÏıÿÿÿÿ8Í×‡ö˜2J$e768656e-0cff-424c-ab58-aa5b6a61ac58
 {
-java:S1135Ä"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‰Û‚‡Œ2J$ed5d60c1-3b3c-4b5c-a5bf-8aec93c2d121
+java:S1135Ä"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Í×‡ö˜2J$ab254a10-869f-46ec-b4a0-a6c590bf3959
 {
-java:S1135ù"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Û‚‡Œ2J$470d3849-6049-4000-8f59-ac1c1228634a
+java:S1135ù"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ï×‡ö˜2J$0ffc4258-c513-4ad7-a78f-36506a2fd448
 {
-java:S1135§"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Û‚‡Œ2J$abd09a05-e7fb-439b-9b5d-d28669f9aa79
+java:S1135§"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ñ×‡ö˜2J$bf4a50c2-42e2-4d7f-8c33-bded4067808a
 {
-java:S1135á"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‘Û‚‡Œ2J$75f3e3b2-5ebb-48f9-97bb-09133be2f6b4
+java:S1135á"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ò×‡ö˜2J$56ae9b2c-d51f-4583-9670-ab0e913804d5
 {
-java:S1135‘"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ıœ”‡Œ2J$086de186-cead-4d1a-952a-0419c40e2d43
+java:S1135‘"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ô×‡ö˜2J$2816d4d0-4f63-4927-a3a5-f2f52f106f4f
 i
-java:S1659¤" Declare "sR" on a separate line.(„Ö”‘úÿÿÿÿ8—Û‚‡Œ2J$f8ccc0ea-d464-46a8-ae63-dbdff169839d
+java:S1659¨" Declare "sR" on a separate line.(„Ö”‘úÿÿÿÿ8Ú×‡ö˜2J$9caebe9e-c4cb-434a-a517-799d8a4798ce
 d
-java:S1659¥" Declare "iR" on a separate line.(ÏÈ8—Û‚‡Œ2J$4f465cf2-3b8a-445e-bb39-eb7a055eb078
-„	java:S125‘"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8›Û‚‡Œ2J$9075ea8e-c2a9-47bb-84f1-70a91c1a1bf6
+java:S1659©" Declare "iR" on a separate line.(ÏÈ8Ú×‡ö˜2J$afb801c9-04bb-43a9-b34d-084c39e2b6b3
+„	java:S125•"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8Ş×‡ö˜2J$d1b3fff0-d62e-49a8-816c-039be9969f90

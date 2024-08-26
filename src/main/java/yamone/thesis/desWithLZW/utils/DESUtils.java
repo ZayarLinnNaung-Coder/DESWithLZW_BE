@@ -215,7 +215,7 @@ public class DESUtils {
 	 * @param plaintext
 	 * @return
 	 */
-	public static byte[] encryptFile(String key, byte[] fileBytes) {
+	public static byte[] encryptFile(String key, byte[] fileBytes) throws Exception {
 
 		String plaintext = Base64.getEncoder().encodeToString(fileBytes);
 
@@ -263,7 +263,7 @@ public class DESUtils {
 		return Base64.getDecoder().decode(binCiphertext);
 	}
 
-	public static String encrypt(String key, String plaintext) {
+	public static String encrypt(String key, String plaintext) throws Exception {
 
 		// Build the key schedule
 		buildKeySchedule(hash(key));
@@ -316,7 +316,7 @@ public class DESUtils {
 	 * @return Plaintext message string
 	 */
 
-	public static byte[] decryptFile(String key, byte[] fileBytes) {
+	public static byte[] decryptFile(String key, byte[] fileBytes) throws Exception {
 
 		String plaintextHexa = Base64.getEncoder().encodeToString(fileBytes);
 		String plaintext = hexToBin(plaintextHexa);
@@ -367,7 +367,7 @@ public class DESUtils {
 		return Base64.getDecoder().decode(binCiphertext);
 	}
 
-	public static String decrypt(String key, String plaintext) {
+	public static String decrypt(String key, String plaintext) throws Exception {
 		
 		// Build the key schedule
 		buildKeySchedule(hash(key));
@@ -519,9 +519,13 @@ public class DESUtils {
 	 */
 	
 	// adapted from String.hashCode()
-	public static long hash(String string) {
+	public static long hash(String string) throws Exception {
 		long h = 1125899906842597L; // prime
-		int len = string.length(); 
+		int len = string.length();
+
+		if(len != 8){
+			throw new Exception("String must be 8 characters long!");
+		}
 
 		for (int i = 0; i < len; i++) {
 			h = 31*h + string.charAt(i);

@@ -1,2 +1,12 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ë‡Ş8¦ÔÎŠŒ2J$098891d3-6ab6-4367-adda-c7a2a1ad8fbd
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(»ÃÑ³øÿÿÿÿ8¥„‰ö˜2J$23a72f0f-2639-47cc-9e18-028a4d8ffcf4
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÉøùÓÿÿÿÿÿ8¸¢‰ö˜2J$f2e95631-a66d-4c7d-a178-450f3089ce36
+	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(»ÃÑ³øÿÿÿÿ8™º‰ö˜2J$797aebbb-96f9-4427-99d7-7fe40ec84f00
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(ŞÆ±úüÿÿÿÿ8ÒÓ‰ö˜2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ë‡Ş8¦ÔÎŠŒ2J$91a4e732-754d-43ba-b9f7-8f9aadbd9f56
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(»ÃÑ³øÿÿÿÿ8À¢‰ö˜2J$1acdfef9-7a44-430c-a03d-a04eb5fa16dc
+
+java:S11300"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(»ÃÑ³øÿÿÿÿ8ïÓ‰ö˜2
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¦º‰ö˜2J$ad5e400f-56f8-45d5-986b-92af7261de5f
